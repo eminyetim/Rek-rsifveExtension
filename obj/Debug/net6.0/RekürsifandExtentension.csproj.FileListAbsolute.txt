@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\bin\Debug\net6.0\RekürsifandExtentension.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\bin\Debug\net6.0\RekürsifandExtentension.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\bin\Debug\net6.0\RekürsifandExtentension.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\bin\Debug\net6.0\RekürsifandExtentension.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\bin\Debug\net6.0\RekürsifandExtentension.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\RekürsifandExtentension.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\RekürsifandExtentension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\RekürsifandExtentension.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\RekürsifandExtentension.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\RekürsifandExtentension.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\RekürsifandExtentension.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\refint\RekürsifandExtentension.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\RekürsifandExtentension.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\RekürsifandExtentension.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\RekürsifandExtentension\obj\Debug\net6.0\ref\RekürsifandExtentension.dll
